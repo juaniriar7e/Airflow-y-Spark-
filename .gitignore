@@ -1,0 +1,12 @@
+# Airflow & Spark logs
+datalab-home/logs/
+datalab-home/plugins/postgresql-42.7.2.jar
+spark-binaries/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+.env
